@@ -8,4 +8,5 @@
 
 .chart {
     cursor: pointer;
+    -webkit-tap-highlight-color: #1e1e1e;
 }

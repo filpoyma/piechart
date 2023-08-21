@@ -1,7 +1,7 @@
 import React from "react";
 import PieChart from "./components/PieChart";
 
-function App() {
+const App = (): JSX.Element => {
   return <PieChart />;
 }
 
